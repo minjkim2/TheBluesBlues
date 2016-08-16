@@ -3,3 +3,13 @@
       width: 70%;
       margin: auto;
   }
+  body{
+      background-color: lightblue;
+      background-image: url("music note.png");
+      background-repeat: repeat-x;
+      background-position: -5px 225px;
+  }
+#one{
+    font-family: 'McLaren', cursive;
+    font-size: 60px;
+}
