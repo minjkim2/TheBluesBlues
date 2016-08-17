@@ -1,9 +1,11 @@
 .font{
     font-family: 'Oswald', sans-serif;
     font-size: 60px;
+    padding:50px;
 }
-h2 h3 h4 h5 h6{
+h2 {
     font-family: 'Oswald', sans-serif;
+    padding:50px;
 }
 body{
       background-color: lightblue;
@@ -11,4 +13,17 @@ body{
 .fonty{
     font-family:'Quattrocento Sans', serif;
     font-size: 20px;
+    padding: 50px;
+}
+h3 {
+    font-family: 'Oswald', sans-serif;
+    padding:50px;
+}
+h4 {
+    font-family: 'Oswald', sans-serif;
+    padding:50px;
+}
+h5 {
+    font-family: 'Oswald', sans-serif;
+    padding:50px;
 }
