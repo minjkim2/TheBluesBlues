@@ -1,7 +1,29 @@
 .font{
     font-family: 'Oswald', sans-serif;
     font-size: 60px;
+    padding:50px;
+}
+h2 {
+    font-family: 'Oswald', sans-serif;
+    padding:50px;
 }
 body{
       background-color: lightblue;
+}
+.fonty{
+    font-family:'Quattrocento Sans', serif;
+    font-size: 20px;
+    padding: 50px;
+}
+h3 {
+    font-family: 'Oswald', sans-serif;
+    padding:50px;
+}
+h4 {
+    font-family: 'Oswald', sans-serif;
+    padding:50px;
+}
+h5 {
+    font-family: 'Oswald', sans-serif;
+    padding:50px;
 }
