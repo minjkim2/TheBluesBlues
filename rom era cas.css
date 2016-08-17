@@ -6,7 +6,7 @@
   body{
       background-image: url("music note.png");
       background-repeat: repeat-x;
-      background-position: -5px 225px;
+      background-position: -5px 345px;
   }
 #categories{
   overflow:hidden;
