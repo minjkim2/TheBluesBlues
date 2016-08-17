@@ -106,7 +106,7 @@ body{
 #categories div h1, #categories div p{
   width:100%;
   padding:0 0%;
-  background-color:#008080; background-color: rgba(0, 128, 128, 0.8);
+  background-color:#008080; background-color: rgba(50, 100, 128, 0.8);
   font-family: 'Oswald', sans-serif;
   
   -webkit-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
@@ -135,6 +135,7 @@ body{
 	padding-top:50%;
 	top:110%;
 	padding-bottom:50%;
+    font-size: 1.5em;
 }
 
 
