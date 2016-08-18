@@ -1,9 +1,4 @@
-  .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
-  body{
+body{
       background-image: url("music note.png");
       background-repeat: repeat-x;
       background-position: -5px 345px;
@@ -74,8 +69,18 @@
   margin:0 auto;   
 }
 
-#categories div h1, #categories div p{
+#categories div h1{
   width:100%;
+  padding:0 0%;
+  background-color:#008080; background-color: rgba(0, 128, 128, 0.8);
+  font-family: 'Raleway', sans-serif;
+  
+  -webkit-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
+  -ms-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
+  transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
+}
+#categories div p{
+      width:100%;
   padding:0 0%;
   background-color:#008080; background-color: rgba(0, 128, 128, 0.8);
   font-family: 'Raleway', sans-serif;
