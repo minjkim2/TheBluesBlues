@@ -3,6 +3,10 @@ body{
       background-repeat: repeat-x;
       background-position: -5px 345px;
   }
+  .spotify{
+      padding-left:50px;
+      padding-bottom:none;
+  }
 #categories{
   overflow:hidden;
   width:90%;
