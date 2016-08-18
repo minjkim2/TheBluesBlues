@@ -1,31 +1,3 @@
-
-    
-h1 {text-align: center;
-    font-family: 'Oswald', sans-serif;
-    
-}
-
-h2{text-align: center;
-    font-family: 'Oswald', sans-serif;
-}
-
-h3{text-align: center;
-    
-}
-
-div.game{
-    float: right;
-}
-
-#CUBISM {
-    text-align: left;
-    padding: 50px
-}
-
-div.instructions{
-    float: left;
-}
-
 body{
   font-family: 'Open Sans', arial, sans-serif;
   background:rgb(123, 158, 158);
@@ -102,8 +74,8 @@ body{
 }
 
 #categories div h1, #categories div p{
-  width:100%;
-  padding:0 0%;
+  width:90%;
+  padding:0 5%;
   background-color:#008080; background-color: rgba(0, 128, 128, 0.8);
   font-family: 'Raleway', sans-serif;
   
@@ -139,11 +111,23 @@ body{
 /* HOVER EFFECT  */
 
 #categories li div:hover h1 {
-  bottom:48.5%;
-  padding-bottom:5%;
+  bottom:50%;
+  padding-bottom:10%;
 }
 
 #categories li div:hover p{
-  top:48.5%;
-  padding-top:5%;
+  top:50%;
+  padding-top:10%;
+}
+#fork{
+  position:fixed;
+  top:0;
+  left:0;
+  color:#000;
+  text-decoration:none;
+  border:1px solid #000;
+  padding:.5em .7em;
+  margin:1%;
+  transition: color .5s;
+  overflow:hidden;
 }
