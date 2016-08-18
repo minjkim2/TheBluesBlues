@@ -12,9 +12,15 @@ h3{text-align: center;
 }
 */
 
-div.game{
+div.row{
+    text-align:left;
+}
+
+.game{
     float: right;
 }
+
+
 
 #CUBISM {
     text-align: left;
@@ -23,6 +29,8 @@ div.game{
 
 div.instructions{
     float: left;
+    text-align:left;
+    font-size: 15px;
 }
 
 body{
