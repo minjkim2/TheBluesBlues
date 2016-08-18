@@ -1,8 +1,8 @@
-/*body{
+body{
       background-image: url("music note.png");
       background-repeat: repeat-x;
       background-position: -5px 345px;
-  }*/
+  }
 #categories{
   overflow:hidden;
   width:90%;
