@@ -152,3 +152,8 @@ body{
   top:48.5%;
   padding-top:5%;
 }
+
+.img {
+    max-width:500;
+    max-height:500;
+}
