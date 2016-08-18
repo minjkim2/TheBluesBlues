@@ -4,8 +4,13 @@ body{
       background-position: -5px 345px;
   }
   .spotify{
-      padding-left:50px;
+      padding-left:45px;
       padding-bottom:none;
+  }
+  .instructions{
+          font-family:'Raleway', sans-serif;
+    font-size: 20px;
+    padding-left: 40px;
   }
 #categories{
   overflow:hidden;
