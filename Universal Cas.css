@@ -11,15 +11,15 @@ h2 {
 }
 /*sets our background color for the art pages*/
 .art{
-      background-color: rgb(175, 227, 241);
+      background-color: rgb(148, 241, 191);
 }
 /*set background color for the music pages*/
 .music{
-      background-color: rgb(148, 241, 239);
+      background-color: rgb(117, 241, 239);
 }
 /* sets backgrnd color for home and about page*/
 .other{
-      background-color: rgb(117, 241, 239)
+      background-color: rgb(175, 227, 241)
 }
 /*font size for the info portion*/
 .fonty{
