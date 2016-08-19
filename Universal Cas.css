@@ -13,14 +13,23 @@ h2 {
 .art{
       background-color: rgb(175, 227, 241);
 }
+/*set background color for the music pages*/
 .music{
       background-color: rgb(148, 241, 239);
+}
+/* sets backgrnd color for home and about page*/
+.other{
+      background-color: rgb(117, 241, 239)
 }
 /*font size for the info portion*/
 .fonty{
     font-family:'Raleway', sans-serif;
     font-size: 25px;
     padding: 40px;
+}
+/* indents our parags*/
+.indent{
+    text-indent: 55px;
 }
 h3 {
     font-family: 'Oswald', sans-serif;
@@ -74,7 +83,7 @@ h5 {
   margin-left:0.5%;
 }
 #categories li:nth-child(6n+4), #categories li:nth-child(6n+5), #categories li:nth-child(6n+6) {
-	margin-top: -6.9285714285%;
+  margin-top: -6.9285714285%;
   margin-bottom: -6.9285714285%;
   
   -webkit-transform: translateX(50%) rotate(-60deg) skewY(30deg);
@@ -99,7 +108,7 @@ h5 {
   -ms-transform: skewY(-30deg) rotate(60deg);
   transform: skewY(-30deg) rotate(60deg);
   
-	-webkit-backface-visibility:hidden;
+  -webkit-backface-visibility:hidden;
   
 }
 
@@ -129,7 +138,7 @@ h5 {
   padding-bottom:100%;
 }
 #categories li h1:after{
-	content:'';
+  content:'';
   display:block;
   position:absolute;
   bottom:-1px; left:45%;
@@ -139,9 +148,9 @@ h5 {
   border-bottom:2px solid #fff;
 }
 #categories li p{
-	padding-top:50%;
-	top:110%;
-	padding-bottom:50%;
+  padding-top:50%;
+  top:110%;
+  padding-bottom:50%;
     font-size: 1.5em;
 }
 
