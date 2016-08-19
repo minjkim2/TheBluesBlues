@@ -9,9 +9,12 @@ h2 {
     font-family: 'Oswald', sans-serif;
     padding:50px;
 }
-/*sets our background color*/
-body{
-      background-color: lightblue;
+/*sets our background color for the art pages*/
+.art{
+      background-color: rgb(175, 227, 241);
+}
+.music{
+      background-color: rgb(192, 234, 255);
 }
 /*font size for the info portion*/
 .fonty{
@@ -32,11 +35,11 @@ h5 {
     padding:50px;
 }
 
-body{
+/*body{
   font-family: 'Oswald', sans-serif;
   background:rgb(123, 158, 158);
 
-}
+}*/
 *{
   margin:0;
   padding:0;
