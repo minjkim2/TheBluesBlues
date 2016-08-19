@@ -8,10 +8,11 @@ body{
       padding-bottom:none;
   }
   .instructions{
-          font-family:'Raleway', sans-serif;
+    font-family:'Raleway', sans-serif;
     font-size: 20px;
     padding-left: 40px;
   }
+  /*hexagons*/
 #categories{
   overflow:hidden;
   width:90%;
@@ -88,11 +89,13 @@ body{
   -ms-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
   transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
 }
+
 #categories div p{
-      width:100%;
+  width:100%;
   padding:0 0%;
   background-color:#008080; background-color: rgba(0, 128, 128, 0.8);
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway sans-serif;
+  font-size: 14px;
   
   -webkit-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
   -ms-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
