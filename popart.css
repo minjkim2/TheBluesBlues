@@ -5,3 +5,16 @@ h3 {text-align: left;
 p{
     
 }
+
+.row{
+    float: left;
+}
+
+div.popgame{
+    float: right;
+}
+
+.instructions{
+    font-size: 15px;
+    float: left;
+}

@@ -16,21 +16,31 @@ div.row{
     text-align:left;
 }
 
-.game{
-    float: right;
+.aligned{
+    display: inline;
+    position: relative;
 }
 
-
+.horizontal {
+    display: inline;
+}
 
 #CUBISM {
     text-align: left;
     padding: 50px
+    padding: 50px
+}
+.row{
+    padding: 4em;
+    
 }
 
-div.instructions{
-    float: left;
-    text-align:left;
-    font-size: 15px;
+.text{
+    
+}
+
+.cubegame{
+    
 }
 
 body{
