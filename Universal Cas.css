@@ -27,6 +27,10 @@ h2 {
     font-size: 25px;
     padding: 40px;
 }
+/* indents our parags*/
+.indent{
+    text-indent: 55px;
+}
 h3 {
     font-family: 'Oswald', sans-serif;
     padding:50px;
